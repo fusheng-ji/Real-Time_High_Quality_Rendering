@@ -552,7 +552,25 @@ $$V(x)\ne \sum_{y\in \mathcal{N}(x)}w(x,y)V(y)$$
 
 ![2022-03-13_17-23](/pic/2022-03-13_17-23.png)
 
-### Shadow from environment lighting
+### shadow from environment lighting
+
+![2022-03-13_22-29](/pic/2022-03-13_22-29.png)
+
+![2022-03-13_22-29_1](/pic/2022-03-13_22-29_1.png)
+
+### Background knowledge
+
+#### Frequency and filtering
+
+#### Basis functions
+
+### Real-time environment light (& global illumination)
+
+#### Spherical Harmonics (SH)
+
+#### Prefiltered env. lighting
+
+#### Precomputed Radiance Transfer (PRT)
 
 
 

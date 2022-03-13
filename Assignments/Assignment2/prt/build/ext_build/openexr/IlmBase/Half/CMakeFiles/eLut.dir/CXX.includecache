@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wenboji/Real-Time_High_Quality_Rendering/Assignments/Assignment2/prt/ext/openexr/IlmBase/Half/eLut.cpp
+iostream
+-
+iomanip
+-
+
